@@ -8,57 +8,62 @@ const questions = () => {
     return inquirer.prompt([
         {
             type: 'input',
-            name: 'name',
+            name: 'title',
             message: "What is your project name?:",
         },
 
         {
             type: 'input',
-            name: 'name',
+            name: 'description',
             message: 'Please write description about your project:',
 
         },
 
         {
             type: 'input',
-            name: 'name',
+            name: 'installation',
             message: 'Please give information about installation instructions:',
 
         },
 
         {
             type: 'input',
-            name: 'name',
+            name: 'usage',
             message: 'Please give usage information detail:',
 
         },
         {
             type: 'input',
-            name: 'name',
+            name: 'contributing',
             message: 'Who contributed to this project:',
 
         },
         {
             type: 'input',
-            name: 'name',
+            name: 'test',
             message: 'Please give information about test instructions:',
 
         },
         {
-            type: 'input',
-            name: 'name',
+            type: 'list',
+            name: 'license',
             message: 'Please choose a license for application from a list of options:',
+            choices: [
+                "Apache",
+                "Boost",
+                "Mit",
+            ]
         },
 
         {
             type: 'input',
-            name: 'name',
+            name: 'github',
             message: 'Enter your Github username:',
 
         },
         {
             type: 'input',
-            name: 'name',
+            name: 'email',
             message: 'Enter your email address:',
 
         },
@@ -73,12 +78,12 @@ const questions = () => {
 
      function writeToFile(data){
   
-    fs.writeFile("README.md", (generate, (data)), err => {
+    fs.writeFile("README.md", (generate,(data)), err =>  {
         if (err) throw err;
 
             console.log('File created')
 
-        }
+    }
     
     )};
 
