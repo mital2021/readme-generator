@@ -25,7 +25,7 @@ Mital Goghari
 
 ## Tests
 
-No test was done
+No test was done at this time
 
 ## License
 Apache
@@ -35,6 +35,7 @@ Apache
 If you have any questions, feel free to email me:
 mitalg0717@gmail.com
 
-Feel free to check out my Github Repository (https://github.com/Mital2021)
+Feel free to check out my Github Repository (https://github.com/mital2021)
 
-
+## Walkthrough Video
+https://watch.screencastify.com/v/ylKfSoYDQdmGY0b3JpCF

@@ -71,7 +71,8 @@ ${data.email}
 
 Feel free to check out my Github Repository (https://github.com/${data.github})
 
-
+## Walkthrough Video
+https://watch.screencastify.com/v/ylKfSoYDQdmGY0b3JpCF
 `;
   }
 
