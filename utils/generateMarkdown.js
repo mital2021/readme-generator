@@ -62,7 +62,7 @@ ${data.contributing}
 ${data.test}
 
 ## License
-${renderLicenseSection(data.license)}
+${data.license}
 
 ## Questions
 
@@ -70,6 +70,9 @@ If you have any questions, feel free to email me:
 ${data.email}
 
 Feel free to check out my Github Repository (https://github.com/${data.github})
+
+## Screenshot of my application
+
 `;
   }
 

@@ -3,7 +3,7 @@
 
 ## Description
 
-It's an application that allows user to create Readme file from command line. This application runs with Node.js 
+It's an application that allows user to create Readme file from command line. This application runs with Node.js
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ It's an application that allows user to create Readme file from command line. Th
 * [Questions](#questions)
 
 ## Installation
-
+To run this application you need to install npm inquirer
 
 ## Usage
 
@@ -28,7 +28,7 @@ Mital Goghari
 No test was done
 
 ## License
-undefined
+Apache
 
 ## Questions
 
@@ -36,3 +36,6 @@ If you have any questions, feel free to email me:
 mitalg0717@goghari.com
 
 Feel free to check out my Github Repository (https://github.com/Mital2021)
+
+## Screenshot of my application
+
