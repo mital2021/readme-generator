@@ -71,7 +71,6 @@ ${data.email}
 
 Feel free to check out my Github Repository (https://github.com/${data.github})
 
-## Screenshot of my application
 
 `;
   }
