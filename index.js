@@ -50,8 +50,7 @@ const questions = () => {
             message: 'Please choose a license for application from a list of options:',
             choices: [
                 "Apache",
-                "Boost",
-                "Mit",
+                
             ]
         },
 

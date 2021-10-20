@@ -1,5 +1,5 @@
 # Readme Generator
-![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+
 
 ## Description
 
@@ -17,7 +17,7 @@ It's an application that allows user to create Readme file from command line. Th
 To run this application you need to install npm inquirer
 
 ## Usage
-
+ok
 
 ## Contributing
 
@@ -28,14 +28,14 @@ Mital Goghari
 No test was done
 
 ## License
-Apache
+Boost
 
 ## Questions
 
 If you have any questions, feel free to email me:
-mitalg0717@goghari.com
+mitalg0717@gmail.com
 
-Feel free to check out my Github Repository (https://github.com/Mital2021)
+Feel free to check out my Github Repository (https://github.com/mital2021)
 
 ## Screenshot of my application
 
